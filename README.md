@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zen Cart is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zen-cart.com/
+Zen Cart is an open‑source e‑commerce platform that enables merchants to build and manage online stores. It offers a flexible, modular architecture with a wide range of extensions, themes, and payment integrations, supporting both small businesses and larger enterprises. The community‑driven project provides extensive documentation, developer guides, and support forums, allowing developers to customize and extend functionality through plugins and custom code.
+
+**Areas:** e-commerce · open-source · php · shopping-cart · community · platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zen-cart.com/)
+- [Documentation](https://docs.zen-cart.com/)
+- [Getting started](https://docs.zen-cart.com/user/first_steps/)
+- [Support](https://zen-cart.com/forums)
+- [Blog](https://zen-cart.com/newsletter)
+- [Privacy policy](https://zen-cart.com/privacy)
+- [GitHub](https://github.com/zencart)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zen-cart/](https://apis.io/providers/zen-cart/).
